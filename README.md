@@ -41,10 +41,6 @@ Simply open the `index.html` file in a web browser to view the portfolio. Naviga
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes. Make sure to follow the project's code style and guidelines.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries or feedback, feel free to reach out:
