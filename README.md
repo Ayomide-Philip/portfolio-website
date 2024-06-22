@@ -50,3 +50,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 For any inquiries or feedback, feel free to reach out:
 
 - **Email:** [areoayomide2008@gmail.com](mailto:areoayomide2008@gmail.com)
+- **Facebook:** [Da Emperor](https://web.facebook.com/ayo.areo.90/)
+- **Whatsapp:** [Philip](https://wa.me/2349168115525)
